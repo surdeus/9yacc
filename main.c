@@ -1,5 +1,5 @@
 #include <9/9.h>
-#include <bio.h>
+#include <9/bio.h>
 #include <ctype.h>
 
 #define	Bungetrune	Bungetc		/* ok for now. */
